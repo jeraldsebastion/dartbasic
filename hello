@@ -1,0 +1,11 @@
+void main() {
+  var score=head();
+  print('My name is $score');
+  
+  }
+String head(){
+  
+  return 'jerald';
+  
+}
+
